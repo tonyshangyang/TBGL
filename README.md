@@ -2,7 +2,7 @@
 code of Tensorized Bipartite Graph Learning for Multi-view Clustering with personal explanatory note
 
 ##Code source address
-https://github.com/xdweixia/TBGL-MVC
+https://github.com/xdweixia/TBGL-MVC   Provided by Wei Xia.
 
 ##Run
 run_cluster.m
